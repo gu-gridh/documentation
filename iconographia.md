@@ -1,9 +1,12 @@
+#Iconographia Mediaevalis Suetica
+
 ## Database and API documentation
 Under construction...
 
 
 ## Dataset documentation
-Historiska Museets bilddatabas "Medeltidens bildvärld" med fotografier tagna av Lennart Karlsson mellan 1990 och 1996 (digitiserade inom projektet Kartläggning av Religion i Vardagen), samt "Ikonografiska Registret" från Antikvarisk-Topografiska Arkivet utgör de första samlingarna, och målet är att Iconographian ska utökas allt eftersom med material från fler källor.
+The Historical Museum’s image database “Medeltidens bildvärld”, featuring photographs taken by Lennart Karlsson between 1990 and 1996 (digitized as part of the Mapping Lived Religion project), along with the “Ikonografiska Registret” from the Antiquarian-Topographical Archive (ATA), constitute the first collections. The goal is for Iconographia to be gradually expanded with material from additional sources.
+
 
 ## Development team
 Primary developers have been Jonatan Westin, Arild Matsson, and Maria Öhrman.
