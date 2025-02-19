@@ -1,4 +1,4 @@
-#Iconographia Mediaevalis Suetica
+# Iconographia Mediaevalis Suetica
 
 ## Database and API documentation
 Under construction...
