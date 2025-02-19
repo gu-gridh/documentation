@@ -12,12 +12,12 @@ The Historical Museum’s image database “Medeltidens bildvärld”, featuring
 The project was instigated by Jonathan Westin.
 
 ### Primary frontend developers
-Jonatan Westin
-Arild Matsson
+Jonatan Westin<br>
+Arild Matsson<br>
 Maria Öhrman
 
 ### Primary Backend developed
-Johan Åhlfeldt
+Johan Åhlfeldt<br>
 Victor Wåhlstrand Skärström
 
 
