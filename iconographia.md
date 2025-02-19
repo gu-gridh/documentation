@@ -9,6 +9,6 @@ The Historical Museum’s image database “Medeltidens bildvärld”, featuring
 
 
 ## Development team
-Primary developers have been Jonatan Westin, Arild Matsson, and Maria Öhrman.
+Primary frontend developers have been Jonatan Westin, Arild Matsson, and Maria Öhrman. Backend developed by Johan Åhlfeldt and Victor Wåhlstrand Skärström.
 
 
