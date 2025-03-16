@@ -21,7 +21,7 @@ Jonatan Westin<br>
 Tristan Bridge<br>
 Arild Matsson<br>
 
-### Primary backend developed
+### Primary backend developers
 Aram Karimi
 
 
