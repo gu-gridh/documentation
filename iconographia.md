@@ -16,7 +16,7 @@ Jonatan Westin<br>
 Arild Matsson<br>
 Maria Öhrman
 
-### Primary backend developed
+### Primary backend developers
 Johan Åhlfeldt<br>
 Victor Wåhlstrand Skärström
 
