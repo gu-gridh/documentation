@@ -12,9 +12,12 @@ Under construction...
 Under construction...
 
 
-## Project team
+## Development team
 ### Project lead
 Tyrone Martinsson
+
+### Development lead
+Jonathan Westin
 
 ### Primary frontend developers
 Jonatan Westin<br>
