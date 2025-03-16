@@ -12,13 +12,14 @@ Under construction...
 Under construction...
 
 
-## Development team
+## Project team
+### Project lead
+Tyrone Martinsson
 
 ### Primary frontend developers
 Jonatan Westin<br>
 Tristan Bridge<br>
 Arild Matsson<br>
-
 
 ### Primary backend developed
 Aram Karimi
