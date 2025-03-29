@@ -12,6 +12,7 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 <a href="https://www.gu.se/om-universitetet/hitta-person/jonathanwestin">**Jonathan Westin**</a>  (University of Gothenburg).
 
 ### Data collection, registration and processing
+**Viacheslav Korniienko** (National Conservation Area “St. Sophia of Kyiv”).  
 **Sergii Trofymchuk** (National Conservation Area “St. Sophia of Kyiv”).  
 **Alexander Ganshin** (National Conservation Area “St. Sophia of Kyiv”).  
 **Oksana Kovalska** (National Conservation Area “St. Sophia of Kyiv”).  
@@ -37,5 +38,7 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 
 
 ## Datasets
+The foundational dataset of inscriptions comes from Viacheslav Korniienko's twelve volume work Корпус _Графіті Софії Київської_ (2009-2020). As part of the project, Korniienko has been instrumental in translating this work into an open dataset.
 
-Under construction.
+The documentation of the surfaces - cosisting of 3d-models, orthophotos, topographical visualisaitons, and reflectance transformation imaging - was carried out in 2024 and 2025 by an international team; Gunnar Almevik, Jonathan Westin and Ashely Green (University of Gothenburg, Sweden), and Olexandr Ganshin, Sviatoslav Petryk, Oksana Kovalska, and Sergii Trofymchuk (National Conservation Area “St. Sophia of Kyiv”, Ukraine).
+
