@@ -45,9 +45,9 @@ def create_markdown(items):
     '''
     res = ''
     for item in items:
-        heading = item['heading']        
+        heading = item['heading']     
+        parts = []   
         for i in item['links']:
-            parts = []
             parts.append("[" + i['label'] + "](" + i['link'] + ")")
         res += "### " + heading + "\n" + " | ".join(parts) + "\n"
     return res
