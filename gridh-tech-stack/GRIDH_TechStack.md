@@ -53,7 +53,7 @@ For annotating media like images or videos, GRIDH is using the open source data 
 <img src="https://s.w.org/style/images/about/WordPress-logotype-standard.png" alt="Wordpress logo" height="60px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/wagtail/wagtail/raw/main/.github/wagtail-inverse.svg" alt="Wagtail logo" height="45px;"/>
 
-For content management, GRIDH's team has set up several [Wordpress](https://wordpress.org/) instances which are mostly running in podman containers. We also started to use [Wagtail](https://wagtail.org/) for projects that already use Django for the web framework and more flexibiblity was needed.
+For content management, GRIDH's team has set up several [Wordpress](https://wordpress.org/) instances which are mostly running in podman containers. We also started to use [Wagtail](https://wagtail.org/) for projects that already use Django for the web framework and more flexibility was needed.
 One project is also using the headless CMS [Strapi](https://strapi.io/).
 
 ### Analytics
