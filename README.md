@@ -1,4 +1,4 @@
-#  GRIDH: Gothenburg Research Infrastructure in Digital Humanities
+#  Technical Documentation for GRIDH
  The Gothenburg Research Infrastructure in Digital Humanities (GRIDH) is a research node and infrastructure that offer expertise in deep learning and artificial intelligence, visualisation and visual analysis, spatio-temporal interfaces, and natural language processing. Our mission is to strengthen, renew and enrich research and teaching through digital source material, tools and methods.
 
 We help researchers to develop research applications and navigate datasets, and is a resource for memory institutions that seek new ways to make their collections and archives available for research and public alike. We publish both human and machine readable interfaces for a number of our research projects.
