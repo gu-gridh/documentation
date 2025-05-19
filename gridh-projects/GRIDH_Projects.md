@@ -2,9 +2,10 @@
 This folder contains documentation about individual projects not pertaining to code.
 
 For an overview over all GRIDH projects visit https://dh.gu.se. 
-You can also browse through GRIDH's public project repositories.
+You can also browse through all of [GRIDH's public git repositories](https://github.com/gu-gridh).
 
 ## Public GRIDH project repositories
+In alphabetical order:
 
 ### BICCS - Biennial International Conference for the Craft Sciences
 [Frontend](https://github.com/gu-gridh/pup-frontend) | [Admin](https://github.com/gu-gridh/pup-admin)
@@ -41,4 +42,6 @@ You can also browse through GRIDH's public project repositories.
 ### Svenskt Hällristnings Forsknings Arkivs bilddatabas
 [Backend](https://github.com/gu-gridh/shfa) | [Frontend](https://github.com/gu-gridh/shfa-frontend)
 
-TODO: adjust links for saintsophia
+
+## TODO
+script that fetches tech types from omek-s and adds the tech type to this list
