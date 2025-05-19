@@ -6,7 +6,7 @@ We help researchers to develop research applications and navigate datasets, and 
 This is an overview of our technical infrastructure.
 
 ## GRIDH Projects
-On the [Project](/gridh-projects/GRIDH_Projects.md) pages you can find a list of GRIDH's git repositories ordered by projects here on GitHub. As well as additonal technical documentation for some of the GRIDH projects.
+On the [Project](/gridh-projects/GRIDH_Projects.md) pages, you can find a list of GRIDH's git repositories here on GitHub ordered by projects. As well as additonal technical documentation for some of the GRIDH projects.
 
 ## GRIDH Tech Stack
 The [Tech Stack](/gridh-tech-stack/GRIDH_TechStack.md) page gives an overview of GRIDH's software infrastructure. It includes our choices of open source software and various other aspects of our technical setup.
