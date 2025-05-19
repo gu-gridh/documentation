@@ -41,12 +41,12 @@ GRIDH's IIIF server supports the Image API 3.0. Additionally, the Presentation A
 ### Containers
 <img src="https://github.com/containers/podman/raw/main/logo/podman-logo-source.svg" alt="Podman logo" height="50px;"/>
 
-For some of the projects, the applications are running in [Podman](https://podman.io/) containers in order to keep them seperate in their own environment.
+For some of the projects, the applications are running in [Podman](https://podman.io/) containers in order to keep them separate in their own environment.
 
 Being part of the IT infrastructure of Gothenburg University, GRIDH can also deploy podman containers to the university's container infrastructure.
 
 ### Annotation Software
-For annotating media like images or videos, GRIDH is using the open source data labelling platform [Label Studio](https://labelstud.io/).
+For annotating media like images or videos, GRIDH is using the open source data labeling platform [Label Studio](https://labelstud.io/).
 
 ### Content Management
 
