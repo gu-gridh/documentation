@@ -1,7 +1,7 @@
 #  GRIDH: Gothenburg Research Infrastructure in Digital Humanities
 
 ## Tech Stack
-GRIDH'S tech stack was shaped by several developers over the years and has grown organically. 
+This document gives an overview of GRIDH's current tech stack that provides both human and machine readable public interfaces. With these interfaces, we help researchers to develop research applications and navigate datasets, and assist memory institutions that seek new ways to make their collections available for research and public alike. GRIDH's tech stack was shaped by several developers over the years and has grown organically while we strive to streamline technologies and keep them up-to-date.
 
 ### Backend
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.png" alt="Django logo" height="50px;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
