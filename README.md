@@ -14,5 +14,8 @@ The [Tech Stack](/gridh-tech-stack/GRIDH_TechStack.md) page gives an overview of
 ## GRIDH APIs
 The [APIs](/gridh-apis/GRIDH_APIs.md) page lists the available API endpoints for the various GRIDH projects (work in progress). 
 
+## GRIDH AI/ML
+The [AI/ML](/gridh-ai-ml/GRIDH_AI_ML.md) page lists the AI/ML tools that were used or created in GRIDH projects (work in progress). 
+
 ## Documentation scripts
 There is an additional folder with [helper scripts](/docu-scripts/README.md) that assist us to keep this documentation up-to-date and query our own documentation platform that is build with Omeka-S. 
