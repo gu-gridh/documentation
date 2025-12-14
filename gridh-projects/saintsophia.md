@@ -40,11 +40,23 @@ The foundational dataset of inscriptions comes from Viacheslav Korniienko's twel
 
 The documentation of the surfaces - consisting of 3d-models, orthophotos, topographical visualisaitons, and reflectance transformation imaging - was carried out in 2024 and 2025 by an international team; Gunnar Almevik, Jonathan Westin and Ashely Green (University of Gothenburg, Sweden), and Olexandr Ganshin, Sviatoslav Petryk, Oksana Kovalska, and Sergii Trofymchuk (National Conservation Area “St. Sophia of Kyiv”, Ukraine).
 
+
 ## Database and API documentation
 
 The backend solution upon which the Saint Sophia's Inscriptions portal is developed allows for consistent data input, and facilitates the interaction of end-users with the data shown in the frontend. To make the data open and reusable, Inscriptions of Saint Sophia makes available compliant REST APIs (including GeoJSON API), generated through the Django REST framework. These are the same APIs the projects's own frontend relies upon. Below follows a description of the APIs. [under construction]
 
-APIs<br>
+**APIs**<br>
 https://saintsophia.dh.gu.se/api/<br>
 https://saintsophia.dh.gu.se/api/inscriptions/inscription/<br>
 https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
+
+## Change log
+**2025 - Week 50**<br>
+Orthophoto, topography and mesh added for surface 120-23 and 205-05.
+
+**2025 - Week 48**<br>
+Version 1.5 released: Interactive Summary-view, bug fixes. Chnage log created.
+
+
+
+
