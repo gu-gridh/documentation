@@ -55,7 +55,7 @@ https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 Orthophoto, topography and mesh added for surface 120-23 and 205-05.
 
 **2025 - Week 48**<br>
-Version 1.5 released: Interactive Summary-view, bug fixes. Chnage log created.
+Version 1.5 released: Interactive Summary-view, bug fixes. Change log created.
 
 
 
