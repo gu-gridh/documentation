@@ -19,7 +19,7 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 **Sviatoslav Petryk** (National Conservation Area “St. Sophia of Kyiv”).  
 
 **Fedir Androshchuk** (National Museum of the History of Ukraine).  
-**Anastasiia Diachenko** (National Museum of the History of Ukraine).  
+**Anastasia Diachenko** (National Museum of the History of Ukraine).  
 **Mariia Prokopenko** (National Museum of the History of Ukraine).  
 **Maryna Lutsyk** (National Museum of the History of Ukraine).  
 
