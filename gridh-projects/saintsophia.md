@@ -52,7 +52,7 @@ https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 
 ## Change log
 **2025 - Week 51**<br>
-Version 1.5.1 released: Routing to selected view and panel, faster gallery. RTI for surface 120-23.
+Version 1.5.1 released: Routing to selected view and panel, faster gallery. RTI for surface 120-22 an 120-23.
 
 **2025 - Week 50**<br>
 Orthophoto, topography and mesh added for surface 120-23 and 205-05.
