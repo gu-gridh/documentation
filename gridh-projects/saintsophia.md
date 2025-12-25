@@ -51,6 +51,9 @@ https://saintsophia.dh.gu.se/api/inscriptions/inscription/<br>
 https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 
 ## Change log
+**2025 - Week 52**<br>
+RTI for surfaces 121-06, 121-07, 121-10a, 121-10b, 109-13, 109-14 and 109-15 added.
+
 **2025 - Week 51**<br>
 Version 1.5.1 released: Routing to selected view and panel, faster gallery. RTI for surface 120-22 an 120-23.
 
