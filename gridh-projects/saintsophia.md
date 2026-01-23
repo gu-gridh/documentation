@@ -53,7 +53,7 @@ https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 
 ## Change log
 **2026 - Week 4**<br>
-RTI added for surfaces 120-01 to 120-23. Orthophoto, topography and mesh added for surface 114-03, 114-04 and 114-05.
+RTI added for surfaces 120-01 to 120-23. Orthophoto, topography and mesh added for surface 114-03, 114-04, 114-05, and 114-06.
 
 **2025 - Week 52**<br>
 RTI added for surfaces 121-06, 121-07, 121-10a, 121-10b, 109-13, 109-14 and 109-15.
