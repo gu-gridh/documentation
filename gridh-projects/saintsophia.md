@@ -26,7 +26,7 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 **Gunnar Almevik** (University of Gothenburg).  
 **Jonathan Westin** (University of Gothenburg).  
 **Ashely Green** (University of Gothenburg).  
-**Lucie Urbanová** (Czech Republic).  
+**Lucie Hortvík** (Czech Republic).  
 
 ### Development
 **Jonathan Westin**, frontend development (GRIDH).  
