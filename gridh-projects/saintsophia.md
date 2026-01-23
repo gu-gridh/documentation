@@ -33,7 +33,8 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 **Tristan Bridge**, frontend development (GRIDH).  
 **Matteo Tomasini**, backend development (GRIDH).  
 **Ashely Green**, frontend development (GRIDH).  
-**Aram Karimi**, backend development (GRIDH).    
+**Aram Karimi**, backend development (GRIDH).  
+**David Alfter**, backend development (GRIDH).  
 
 ## Datasets
 The foundational dataset of inscriptions comes from Viacheslav Korniienko's twelve volume work Корпус _Графіті Софії Київської_ (2009-2020). As part of the project, Korniienko has been instrumental in translating this work into an open dataset.
