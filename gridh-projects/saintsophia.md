@@ -52,6 +52,9 @@ https://saintsophia.dh.gu.se/api/inscriptions/inscription/<br>
 https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 
 ## Change log
+**2026 - Week 6**<br>
+Orthophoto, topography and mesh added for surface 114-13, and 113-26b.
+
 **2026 - Week 5**<br>
 Orthophoto, topography and mesh added for surface 114-02, 114-07, 114-08, 114-09, 114-10, 114-11, 114-12, 114-14, 114-15, 114-17, and 114-23.
 
