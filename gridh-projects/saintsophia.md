@@ -42,8 +42,7 @@ The foundational dataset of inscriptions comes from Viacheslav Korniienko's twel
 The documentation of the surfaces - consisting of 3d-models, orthophotos, topographical visualisaitons, and reflectance transformation imaging - was carried out in 2024 and 2025 by an international team; Gunnar Almevik, Jonathan Westin and Ashely Green (University of Gothenburg, Sweden), and Olexandr Ganshin, Sviatoslav Petryk, Oksana Kovalska, and Sergii Trofymchuk (National Conservation Area “St. Sophia of Kyiv”, Ukraine).
 
 ### Use of Artifical Intelligence
-Artifical intelligence (AI) was used to translate fields into english where only information in Ukrainian were available. This included translations of the inscriptions and comments about the inscriptions. AI was also used to add romanisation data to inscriptions written in non latin characters.
-
+Artifical intelligence (AI) was used to translate fields into english where only information in Ukrainian were available. This included Korniienko's translations and commentary. AI was also used to add romanisation data to inscriptions using non latin characters.
 
 ## Database and API documentation
 
