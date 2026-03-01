@@ -54,6 +54,9 @@ https://saintsophia.dh.gu.se/api/inscriptions/inscription/<br>
 https://saintsophia.dh.gu.se/api/inscriptions/geojson/panel/
 
 ## Change log
+**2026 - Week 9**<br>
+Version 1.6 was released with support for text content search and bug fixes.
+
 **2026 - Week 6**<br>
 Orthophoto, topography and mesh added for surface 114-13, and 113-26b.
 
