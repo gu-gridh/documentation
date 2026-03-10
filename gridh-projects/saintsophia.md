@@ -36,8 +36,8 @@ The projekt was funded by <a href="https://www.formas.se">**Formas research coun
 **Jonathan Westin**, frontend development (GRIDH).  
 **Tristan Bridge**, frontend development (GRIDH).  
 **Matteo Tomasini**, backend development (GRIDH).  
+**Aram Karimi**, backend development (GRIDH).
 **Ashely Green**, frontend development (GRIDH).  
-**Aram Karimi**, backend development (GRIDH).  
 **David Alfter**, backend development (GRIDH).  
 
 ## Datasets
